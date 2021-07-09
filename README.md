@@ -39,9 +39,12 @@
 | ------ | ------ |
 | 1. 使用 web 介面新增場景，設定參數 （可使用手機操作）<br>2. 放置與調整虛擬攝影機 （就像是 `camera plus`/`camera 2`）<br>3. 啟動實況| 使用瀏覽器觀看(可以即時送愛心給實況主，聽到語音)<br> - iPhone - `Safari` <br> - Android - `Chrome` <br> - Oculus Quest - `Oculus Browser`|
 
+## 下載
+**[`下載頁面`](https://www.xr-audience.live/zh-hant/download/)**
+
 
 ## 安裝步驟
-詳細內容請參考官網 **[`安裝步驟`](https://www.xr-audience.live/zh-hant/download/)**
+詳細內容請參考官網 **[`安裝步驟`](https://www.xr-audience.live/zh-hant/download/#install)**
 
 ## 常見問題
 詳細內容請參考官網 **[`常見問題`](https://www.xr-audience.live/zh-hant/download/#q1-1)**
