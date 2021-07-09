@@ -41,7 +41,7 @@
 
 
 ## 安裝步驟
-詳細內容請參考官網 **[`安裝步驟`](https://www.xr-audience.live/zh-hant/download/#install)**
+詳細內容請參考官網 **[`安裝步驟`](https://www.xr-audience.live/zh-hant/download/)**
 
 ## 常見問題
 詳細內容請參考官網 **[`常見問題`](https://www.xr-audience.live/zh-hant/download/#q1-1)**
