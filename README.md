@@ -44,7 +44,8 @@
 
 
 ## 安裝步驟
-要使用 audience 您必須先在官網註冊一個帳號 **[`audience 官網`](https://www.xr-audience.live/zh-hant/)**
+注意：要使用 audience 您必須先在官網註冊一個帳號 **[`audience 官網`](https://www.xr-audience.live/zh-hant/)**
+
 詳細內容請參考下載頁面 **[`安裝步驟`](https://www.xr-audience.live/zh-hant/download/#install)**
 
 
