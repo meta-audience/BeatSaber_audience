@@ -1,3 +1,6 @@
+# 公告 2021.07.21
+目前 Beat Saber 更新到 1.16.3 ，而 mod 目前還無法支援最新的 Beat Saber，我們正在更新與測試新的 mod，請大家耐心等候喔!
+
 # audience for BeatSaber中文安裝使用指南
 ## 串流實況系統需求
 ### 系統需求:
