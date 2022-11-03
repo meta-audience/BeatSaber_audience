@@ -13,14 +13,19 @@ ___
 # Quick Start
 
 
-[Installer wiki](https://github.com/Decayo/test/wiki/Quick-Setup#audienceinstaller-auto-install)
 
-[Mannual install wiki](https://github.com/Decayo/test/wiki/Quick-Setup#mannual-install)
+## First Step   
+[Installation guide](https://github.com/Decayo/test/wiki/Quick-Setup#audienceinstaller-auto-install)
 
+## Second Step
+### - If you are a streamer
+[Streamer streaming setup](https://github.com/Decayo/test/wiki/Quick-Setup#mannual-install)
+### -  If you are a viewer
+[Viewer setup](https://github.com/Decayo/test/wiki/Quick-Setup#mannual-install)
 
 
 # System requirement
-## For streamer
+
 ||Minimum requirement | Recommended requirement |
 --- | --- | ---
 OS | Windows 10 (64bit) | **Windows 10 (64bit)**
@@ -31,11 +36,8 @@ Storage | 300 MB  | **300MB**
 Network | 60M/20M （detail） | **100M/40M or better （detail）**
 > Noted that the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***
 
-## For viewer
 
-# Configuration(wiki)
-...
 
 # FAQ
- **[`常見問題`](https://www.xr-audience.live/zh-hant/download/#q1-1)**
+ **[`Official website`](https://staging-web.meta-audience.com/accounts/scenes/)**
 ...
