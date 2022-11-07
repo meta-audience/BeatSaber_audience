@@ -6,22 +6,21 @@ ___
 
 # Introduction
 
-![](https://i.imgur.com/BBF1gEA.png)
-![](https://i.imgur.com/qsCTJlJ.png)
+The audience mod for Beat Saber allows you to start immersive and interactive live broadcasts easily. You can share your 360 degree VR world on browsers with just an URL! Furthermore, you can enjoy interaction with your audience through our VR Emojis! 
+For more information, please check our [website](https://staging-web.meta-audience.com/).
 
 
 # Quick Start
 
 
 
-## First Step   
-[Installation guide](docs/Quick-Setup.md)
+### First Step   
+* [Installation guide](docs/Quick-Setup.md)
 
-## Second Step
-### - If you are a streamer
-[Streamer streaming setup](docs/Streamer-Setup.md)
-### -  If you are a viewer
-[Viewer setup](docs/Viewer-Setup.md)
+### Second Step
+
+* [Streamer streaming setup](docs/Streamer-Setup.md)
+* [Viewer setup](docs/Viewer-Setup.md)
 
 
 # System requirement
@@ -41,6 +40,3 @@ Network | 60M/20M （detail） | **100M/40M or better （detail）**
 
 [Streamer & Viewer Network Requirement](docs/Streamer-Viewer-NetworkRequirement.md)
 
-# FAQ
- **[`Official website`](https://staging-web.meta-audience.com/accounts/scenes/)**
-...
