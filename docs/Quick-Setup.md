@@ -1,5 +1,6 @@
 ### [audienceInstaller](#installer)  
 ### [Mannual Install](#mannual-install-1)
+### [Install FAQ](#install-FAQ-1)
 ---
 # Installer
 - Select a language  
@@ -20,12 +21,6 @@
 ![](https://i.imgur.com/uiR7iVj.png)
 
 
-- Installation fail - Wrong Path  
-![](https://i.imgur.com/IIrKaED.png)
-
-- Installation fail - Not latest installer. Please check your installer is latest.  
-![](https://i.imgur.com/6DIX4nb.png)  
-
 # Mannual Install
 - **Please backup your BeatSaber folder first** 
 - Find your BeatSaber folder location
@@ -38,3 +33,11 @@
         - **audience-plugin.dll**
     - /Plugins
         - **audience.dll**
+
+# Install FAQ
+
+- Installation fail - Wrong Path  
+![](https://i.imgur.com/IIrKaED.png)
+
+- Installation fail - Not latest installer. Please check your installer is latest.  
+![](https://i.imgur.com/6DIX4nb.png)  
