@@ -15,12 +15,12 @@ For more information, please check our [website](https://staging-web.meta-audien
 
 
 ### First Step   
-* [Installation guide](docs/Quick-Setup.md)
+* [Installation guide](docs/QUICKSETUP.md)
 
 ### Second Step
 
-* [Streamer streaming setup](docs/Streamer-Setup.md)
-* [Viewer setup](docs/Viewer-Setup.md)
+* [Streamer streaming setup](docs/STREAMERSETUP.md)
+* [Viewer setup](docs/VIEWERSETUP.md)
 
 
 # System Requirement
@@ -38,5 +38,5 @@ Network | 60M/20M （detail） | **100M/40M or better （detail）**
 
 # Network Requirement
 
-[Streamer & Viewer Network Requirement](docs/Streamer-Viewer-NetworkRequirement.md)
+[Streamer & Viewer Network Requirement](docs/NETWORKREQUIREMENT.md)
 
