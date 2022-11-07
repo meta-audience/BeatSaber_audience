@@ -1,5 +1,5 @@
 ### [audienceInstaller](#installer)  
-### [Mannual Install](#mannual-install-1)
+### [Manual Install](#manual-install-1)
 ### [Install FAQ](#install-FAQ-1)
 ---
 # Installer
@@ -21,7 +21,7 @@
 ![](https://i.imgur.com/uiR7iVj.png)
 
 
-# Mannual Install
+# Manual Install
 - **Please backup your BeatSaber folder first** 
 - Find your BeatSaber folder location
 - Download the XXX.zip file in release
