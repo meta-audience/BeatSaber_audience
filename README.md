@@ -23,7 +23,7 @@ For more information, please check our [website](https://staging-web.meta-audien
 * [Viewer setup](docs/Viewer-Setup.md)
 
 
-# System requirement
+# System Requirement
 
 ||Minimum requirement | Recommended requirement |
 --- | --- | ---
