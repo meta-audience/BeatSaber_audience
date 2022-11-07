@@ -25,4 +25,16 @@
 
 - Installation fail - Not latest installer. Please check your installer is latest.  
 ![](https://i.imgur.com/6DIX4nb.png)  
-# Mannual install
+
+# Mannual Install
+- **Please backup your BeatSaber folder first** 
+- Find your BeatSaber folder location
+- Download the XXX.zip file in release
+- Extract the zip file in anywhere
+- There are three .dll files in this zip file
+- Please drag them to following locations:
+    - /Libs
+        - **audience-unity.dll**
+        - **audience-plugin.dll**
+    - /Plugins
+        - **audience.dll**
