@@ -1,4 +1,7 @@
-# audienceInstaller (Auto Install)
+<a herf="#audienceInstaller">audienceInstaller</a>  
+<a herf="# Mannual install">Mannual install</a>
+
+# audienceInstaller
 - Select a language  
 ![](https://i.imgur.com/pVPUGWq.png)
 - Check you have already install BeatSaber and ModAssistant    
