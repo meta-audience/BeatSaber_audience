@@ -1,5 +1,5 @@
 ### [audienceInstaller](#installer)  
-### [Mannual install](#mannual-install)
+### [Mannual Install](#mannual-install-1)
 ---
 # Installer
 - Select a language  
