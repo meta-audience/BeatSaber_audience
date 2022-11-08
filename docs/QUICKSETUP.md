@@ -1,5 +1,5 @@
 # Installation Guide
-* [Mannual Install](#mannual)
+* [Manual Install](#mannual)
 * [Auto Installation](#auto) 
 
 # <span id="auto">Auto Installation (audience installer)</span>
@@ -20,7 +20,7 @@
 - Installation success!  
 <img src="https://i.imgur.com/uiR7iVj.png" alt="drawing" width="400"/>
 
-# <span id="mannual">Mannual Install</span>
+# <span id="manual">Manual Install</span>
 
 - **Please backup your BeatSaber folder first** 
 - Find your BeatSaber folder location
