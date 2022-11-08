@@ -33,7 +33,7 @@
 > You must add at least one source camera
 ****
 #### <a name="step4"> step 4: Setup your viewers
-- a `viewer` represent a `channel`, it will share as an url to your audience later
+- a `viewer` represent a `channel`, it will share as an url to your viewer later
 - click `Add Viewer` to add a viewer camera
 - ***recommend*** choose **`SFU`** viewer type, it support **multiple online viewing**
 - link with a **`source camera`**
