@@ -47,8 +47,12 @@
 - ***recommed*** rename your `Viewer Name`, it will easy to distuguish the diffrent when viewers joining a channel through an url
 ****
 #### <a name="step5"> step 5: Save your settings
+- notify that you can only have up to **20** scene settings
+- your scene setting will show in BeastSaber audience mod after you save. 
 ****
 #### <a name="step6"> step 6: Login audience in your BeatSaber
+- check if your BeatSaber audience mod is intall correctly
+    - if install correctly, it will show log audience  
 ****
 #### <a name="step7"> step 7: Click start streaming
 ****
