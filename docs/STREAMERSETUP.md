@@ -60,7 +60,7 @@
 - toogle your streaming platform (youtube or twitch)
     - if you use youtube, you need to choose a channel
     - please check your channel is **`not`** private and for child.
-- try send some emoji in your chat, you should can see the emoji and username show in your BeatSaber
+- try send some emoji in your chat, you should can see the emoji and username with avatar show in your BeatSaber
 - **Try 3D emoji** 
    - We represent some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/), viewer can type the emoji-command in chat (Ex: #bigheart#)
 ****
