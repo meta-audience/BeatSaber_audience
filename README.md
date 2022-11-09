@@ -14,13 +14,13 @@ For more information, please check our [website](https://staging-web.meta-audien
 
 
 
-### First Step   
+### Intall audience mod   
 * [Installation guide](docs/QUICKSETUP.md)
 
-### Second Step
+### audience tutorial
 
-* [Streamer streaming setup](docs/STREAMERSETUP.md)
-* [Viewer setup](docs/VIEWERSETUP.md)
+* [How to start your first live stream](docs/STREAMERSETUP.md)
+* [Limitation](docs/VIEWERSETUP.md)
 
 
 # System Requirement
