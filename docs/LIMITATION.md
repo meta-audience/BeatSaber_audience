@@ -1,7 +1,7 @@
 ### GPU Session Problem
 - we only support nvdia graphic card
 - if you have any application occupied the gpu session, streamer maynot create streaming success
-- you can check message in BeatSaber folder
+- you can check messages in BeatSaber folder
   - path is /Logs/_latest.txt
   - if find `streaming session error`, your gpu may be occupied by some apps
   - try to close other apps or restart your computer
