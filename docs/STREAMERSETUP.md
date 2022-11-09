@@ -14,10 +14,16 @@
 #### <a name="step1"> step 1:  Login/Sign up audience official website
 ****
 
-#### <a name="step2"> step 2: Youtube/twitch channel autherization
+#### <a name="step2"> step 2: Youtube/Twitch channel autherization
 - go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/chatSetting/) to bind your youtube/twitch channel
-- click `Connect Youtube Account`
-- choose your youtube account
+- if you use Youtube
+    - click `Connect Youtube Account`
+    - choose your youtube account
+- if you use Twitch
+    - click `Conncect Twitch Account`
+    - if you had login twitch before, it will auto combine
+    - if not, you will see the pop out login Twitch window
+    - if you want to change your Twitch account, please logout twitch with the browser that ise currently
 > Please check your youtube account can streaming first
 
 ****
