@@ -5,11 +5,9 @@
 - [Setup your viewers](#step4)
 - [Save your settings](#step5)
 - [Login audience in your BeatSaber](#step6)
-- [Click start streaming](#step7)
-- [Choose your channel](#step8)
-- [Start streaming](#step9)
-- [Share an url](#step10)
-- [Try 3D emoji](#step11)
+- [Check your streaming chat is working](#step7)
+- [Start streaming](#step8)
+- [Share an url](#step9)
 ****
 #### <a name="step1"> step 1:  Login/Sign up audience official website
 ****
@@ -52,20 +50,34 @@
 ****
 #### <a name="step6"> step 6: Login audience in your BeatSaber
 - check if your BeatSaber audience mod is intall correctly
-    - if install correctly, it will show log audience  
+    - if install correctly, it will show 'audience' in Mods panel
+    - click 'sign in', enter your email and password that registed on our website
 ****
-#### <a name="step7"> step 7: Click start streaming
+#### <a name="step7"> step 7: Check your streaming chat is working
+- after login your audience account, and check you had already auth your youtube/twitch in step2
+- check your streaming chat is working, try type something in chat
+- click '3D EMOJI' button
+- toogle your streaming platform (youtube or twitch)
+    - if you use youtube, you need to choose a channel
+    - please check your channel is **`not`** private and for child.
+- try send some emoji in your chat, you should can see the emoji and username show in your BeatSaber
+- **Try 3D emoji** 
+   - We represent some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/), viewer can type the emoji-command in chat (Ex: #bigheart#)
 ****
-#### <a name="step8"> step 8: Choose your channel
-****
-#### <a name="step9"> step 9: Start streaming 
-****
-#### <a name="step10"> step 10: Share an url
+#### <a name="step8"> step 8: Start streaming
+- check you have set at least one scene setting in `step4 & 5`
+- check your streaming platform is start streaming
+- click `VR 360 Live Stream` in BeatSaber
+- it will show the panel and show your scene settings
+- choose one
+- click 'LOAD'
+- click 'START'
+    - if show error message, please check your other applications is close and network configuration, for detail look[`FAQ - GPU Session`]() [`FAQ - Network`]()
+- click 'SHARE'
+    - it will auto open the share link webpage on our website in browser
+    
+#### <a name="step9"> step 9: Share an url
 - go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your url, the name was that you setup in [step 4](#step-4)
 - viewer can watch streaming in browser/mobile browser through the url
-****
-#### <a name="step11"> step 11: Try 3D emoji
-- We represent some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/), viewer can type the emoji-command in chat (Ex: #bigheart#)
-- Try it during streaming
 ****
 
