@@ -21,7 +21,7 @@
     - choose your youtube account
 - if you use Twitch
     - click `Conncect Twitch Account`
-    - if you had login twitch before, it will auto combine
+    - if you had login twitch before, it will auto autherize
     - if not, you will see the pop out Twitch login window
     - if you want to change your Twitch account, please logout Twitch first
 > Please check your youtube account can streaming first
