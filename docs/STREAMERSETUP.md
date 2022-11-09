@@ -75,7 +75,7 @@
     - if show error message, please check your other applications is close and network configuration, for detail look[`FAQ - GPU Session`]() [`FAQ - Network`]()
 - click 'SHARE'
     - it will auto open the share link webpage on our website in browser
-    
+****    
 #### <a name="step9"> step 9: Share an url
 - go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your url, the name was that you setup in `step 4`
 - viewer can watch streaming in browser/mobile browser through the url
