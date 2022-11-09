@@ -32,7 +32,7 @@
     - you can rename the Source camera name
     - you can choose 3D/2D capture mode
     - choose your resolution
-    - position/rotation can modify in BISPA(BeatSaber audience mods), **unfinished**[`setup camera guide`]()
+    - position/rotation can modify in BISPA(BeatSaber audience mods)
     - you can add up to **`three`** cameras
 > You must add at least one source camera
 ****
@@ -72,7 +72,7 @@
 - choose one
 - click 'LOAD'
 - click 'START'
-    - if show error message, please check your other applications is close and network configuration, for detail look[`FAQ - GPU Session`]() [`FAQ - Network`]()
+    - if show error message, please check your other applications is close and network configuration, for detail look[`Limitation - GPU Session`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
 - click 'SHARE'
     - it will auto open the share link webpage on our website in browser
 ****    
