@@ -11,6 +11,7 @@
 - [Share an url](#step9)
 ****
 #### <a name="step1"> step 1:  Login/Sign up audience official website
+- ... wait for add link ...
 ****
 
 #### <a name="step2"> step 2: Youtube/Twitch channel autherization
