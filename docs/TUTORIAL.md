@@ -75,6 +75,7 @@
 - click 'START'
     - if show error message, please check your other applications is close and network configuration, for detail look[`Limitation - GPU Session`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
 - click 'SHARE'
+    - go to `step 9`
     - it will auto open the share link webpage on our website in browser
 ****    
 #### <a name="step9"> step 9: Share an url
