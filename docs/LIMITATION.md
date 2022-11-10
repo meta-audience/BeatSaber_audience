@@ -1,3 +1,5 @@
+# Limitation
+
 ### GPU Session Problem
 - we only support nvdia graphic card
 - if you have any application occupied the gpu session, streamer maynot create streaming success
