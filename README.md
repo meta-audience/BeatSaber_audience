@@ -19,7 +19,7 @@ For more information, please check our [website](https://staging-web.meta-audien
 
 ### audience tutorial
 
-* [How to start your first live stream](docs/TOUTORIAL.md)
+* [How to start your first live stream](docs/TUTORIAL.md)
 * [Limitation](docs/LIMITATION.md)
 
 
