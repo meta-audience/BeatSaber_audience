@@ -12,3 +12,5 @@
   -  when you click the VR mode button through our streaming url, and see your steamVR status `Chrome 106` -> `SteamVR Home` -> `Chrome 106` -> ... (loop)
     - ChromeXXX, XXX is the number of Chrome edition
   -  then you should restart steamVR
+### Viewer limitation
+- it only can support about 10 viewers watch streaming through SFU url
