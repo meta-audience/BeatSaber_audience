@@ -22,9 +22,10 @@
 > 2D & 3D cameras have same limitation  
 > 
 > Example: 
-> - Streaming builds 3 source cameras with resolutions of 3D/2K, 2D/2K, and 2D/1080P
-> - then streamer will have 3 share urls
-> - Each URL has an individual audience limit
+> - streamer builds 3 source cameras with resolutions of 3D/2K, 2D/2K, and 2D/1080P
+> - then build 3 viewers in scene setting and link with 3 source cameras 
+> - start streaming in BeatSaber and share link will get 3 share urls
+> - each URL has an individual audience limit
 > - So 3D/2K has 20 viewers limit
 > - 2D/2K has 20 viewers limit
 > - 2D/1080P has 40 viewers limit
