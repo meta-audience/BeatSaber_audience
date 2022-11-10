@@ -13,4 +13,18 @@
     - ChromeXXX, XXX is the number of Chrome edition
   -  then you should restart steamVR
 ### Viewer limitation
-- it only can support about 10 viewers watch streaming through SFU url
+ Resoulition | Limit viewers 
+ ----- | ----- 
+| 3840×2160 (4K) |  16 viewers
+| 2560x1440 (2K) |   20 viewers
+| 1920x1080 (1080P)| 40 viewers
+
+> 2D & 3D cameras have same limitation  
+> 
+> Example: 
+> - Streaming builds 3 source cameras with resolutions of 3D/2K, 2D/2K, and 2D/1080P
+> - then streamer will have 3 share urls
+> - Each URL has an individual audience limit
+> - So 3D/2K has 20 viewers limit
+> - 2D/2K has 20 viewers limit
+> - 2D/1080P has 40 viewers limit
