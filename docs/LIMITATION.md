@@ -13,7 +13,7 @@
     - ChromeXXX, XXX is the number of Chrome edition
   -  then you should restart steamVR
 ### Viewer limitation
- Resoulition | Limit viewers 
+ Resolution | Limit viewers 
  ----- | ----- 
 | 3840×2160 (4K) |  16 viewers
 | 2560x1440 (2K) |   20 viewers
