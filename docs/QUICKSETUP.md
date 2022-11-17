@@ -1,17 +1,17 @@
 # Installation Guide
-* [Manual Install](#mannual)
+* [Manual Installation](#manual)
 * [Auto Installation](#auto) 
 
 # <span id="auto">Auto Installation (audience installer)</span>
 - Select a language  
 <img src="https://i.imgur.com/pVPUGWq.png" alt="drawing" width="400"/>
 
-- Check you have already install BeatSaber and ModAssistant 
+- Check you have already installed Beat Saber and Mod Assistant 
 <img src="https://i.imgur.com/KxyQCsn.png" alt="drawing" width="400"/>
 
-- Select the path that you install BeatSaber. Installer will auto detect steam/oculus library and find the path.  
+- Select the folder where you installed Beat Saber. The installer will auto-detect Steam/Oculus library and find the path.  
 <img src="https://i.imgur.com/hsN25Ss.png" alt="drawing" width="400"/>
-- Notice if auto detection failed or you want install on other BeatSaber edition, you need to mannual choose your path.  
+- Note that if auto-detection failed or you want to install in a different Beat Saber edition, you need to manually choose your path.  
 <img src="https://i.imgur.com/b2FWNYW.png" alt="drawing" width="400"/>
 
 - Installing...  
@@ -22,10 +22,10 @@
 
 # <span id="manual">Manual Install</span>
 
-- **Please backup your BeatSaber folder first** 
-- Find your BeatSaber folder location
+- **Please backup your Beat Saber folder first** 
+- Find your Beat Saber folder location
 - Download the XXX.zip file in release
-- Extract the zip file in anywhere
+- Extract the zip file to anywhere
 - There are three .dll files in this zip file
 - Please drag them to following locations:
     - /Libs
