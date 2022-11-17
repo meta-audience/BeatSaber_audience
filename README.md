@@ -33,10 +33,10 @@ RAM | 8 GB  | **16 GB or better**
 GPU | Nvidia GTX 980-Ti  | Nvidia GTX 1070 or better
 Storage | 300 MB  | **300MB**
 Network | 60M/20M （detail） | **100M/40M or better （detail）**
-> Note that the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***
+> Note that the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***.
 
 
 # Network Requirements
 
-[Streamer & Viewer Network Requirement](docs/NETWORKREQUIREMENT.md)
+[Streamer & Viewer Network Requirements](docs/NETWORKREQUIREMENT.md)
 
