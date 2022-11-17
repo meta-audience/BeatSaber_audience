@@ -6,7 +6,7 @@ ___
 
 # Introduction
 
-The audience mod for Beat Saber allows you to easily broadcast immersive and interactive live streams. Share your 360 degree VR world with just a URL! And interact with your audience using our customizable VR emoji! For more information, please visit our[website](https://staging-web.meta-audience.com/).
+The audience mod for Beat Saber allows you to easily broadcast immersive and interactive live streams. Share your 360 degree VR world with just a URL! And interact with your audience using our customizable VR emoji! For more information, please visit our [website](https://staging-web.meta-audience.com/).
 
 
 
@@ -20,12 +20,12 @@ The audience mod for Beat Saber allows you to easily broadcast immersive and int
 ### audience tutorial
 
 * [How to start your first live stream](docs/TUTORIAL.md)
-* [Limitation](docs/LIMITATION.md)
+* [Limitations](docs/LIMITATION.md)
 
 
-# System Requirement
+# System Requirements
 
-||Minimum requirement | Recommended requirement |
+||Minimum requirements | Recommended requirements |
 --- | --- | ---
 OS | Windows 10 (64bit) | **Windows 10 (64bit)**
 CPU | Intel Core i5  | **Intel Core i7 or better**
@@ -33,10 +33,10 @@ RAM | 8 GB  | **16 GB or better**
 GPU | Nvidia GTX 980-Ti  | Nvidia GTX 1070 or better
 Storage | 300 MB  | **300MB**
 Network | 60M/20M （detail） | **100M/40M or better （detail）**
-> Noted that the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***
+> Note that the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***
 
 
-# Network Requirement
+# Network Requirements
 
 [Streamer & Viewer Network Requirement](docs/NETWORKREQUIREMENT.md)
 
