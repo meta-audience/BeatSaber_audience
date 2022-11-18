@@ -71,13 +71,12 @@
 - Check if your streaming platform is streaming successfully
 - Click `VR 360 Live Stream` in Beat Saber
 - Your panel and scene settings appear
-- Choose one
+- Choose a scene
 - Click 'LOAD'
 - Click 'START'
-    - if show error message, please check your other applications is close and network configuration, for detail look[`Limitation - GPU Session`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
+    - If you see an error message, try closing other applications and check your network configuration. For details see [`Limitation - GPU Session`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
 - click 'SHARE'
-    - go to `step 9`
-    - it will auto open the share link webpage on our website in browser
+    - The audience share URL webpage will automatically open in your browser
 ****    
 #### <a name="step9"> Step 9: Share a URL
 - After completing `Step 8`, click [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your URL (viewer names were setup in Step 4)
