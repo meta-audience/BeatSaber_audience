@@ -1,6 +1,6 @@
 
 # How to start your first live stream
-- [Login/Sign up audience official website](#step1)
+- [Sign in/Sign up audience official website](#step1)
 - [YouTube/Twitch channel authorization](#step2)
 - [Setup your scene camera](#step3)
 - [Setup your viewers](#step4)
@@ -27,7 +27,7 @@
     - To connect a different Twitch account, first sign out of your Twitch account
 
 ****
-#### <a name="step3"> step 3: Setup your scene camera
+#### <a name="step3"> Step 3: Setup your scene camera
 - Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/scenes/) to setup your scene settings
 - Click `+ Add` to add a new scene setting
 - Click `Add Source` to add a source camera
