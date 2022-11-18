@@ -21,14 +21,13 @@ Beat Saber location, choose your path manually using the **Custom** option and c
 6. Installation complete! 
 <img src="https://i.imgur.com/uiR7iVj.png" alt="drawing" width="400"/>
 
-# <span id="manual">Manual Install</span>
+# <span id="manual">Manual Installation</span>
 
-- **Please backup your Beat Saber folder first** 
-- Find your Beat Saber folder location
-- Download the XXX.zip file in release
-- Extract the zip file to anywhere
-- There are three .dll files in this zip file
-- Please drag them to following locations:
+1. **Please backup your Beat Saber folder first.** 
+2. Find your Beat Saber folder location.
+3. Download the XXX.zip file in release.
+4. Extract the zip file to anywhere.
+5. There are three .dll files in this zip file. Drag them to following locations:
     - /Libs
         - **audience-unity.dll**
         - **audience-plugin.dll**
