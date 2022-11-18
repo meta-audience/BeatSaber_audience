@@ -24,7 +24,7 @@
 | 2560x1440 (2K) |   20 viewers
 | 1920x1080 (1080P)| 40 viewers
 
-> (2D & 3D cameras have the same limitations)
+> (2D and 3D cameras have the same limitations)
 > 
 > Example scenario: 
 > - Streamer adds 3 source cameras with resolutions of 3D/2K, 2D/2K, and 2D/1080P
