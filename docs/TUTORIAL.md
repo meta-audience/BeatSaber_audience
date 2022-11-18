@@ -1,86 +1,86 @@
 
 # How to start your first live stream
 - [Login/Sign up audience official website](#step1)
-- [Youtube/twitch channel autherization](#step2)
+- [YouTube/Twitch channel authorization](#step2)
 - [Setup your scene camera](#step3)
 - [Setup your viewers](#step4)
 - [Save your settings](#step5)
-- [Login audience in your BeatSaber](#step6)
-- [Check your streaming chat is working](#step7)
+- [Sign into audience in Beat Saber](#step6)
+- [Check that your streaming chat is working](#step7)
 - [Start streaming](#step8)
-- [Share an url](#step9)
+- [Share a URL](#step9)
 ****
-#### <a name="step1"> step 1:  Login/Sign up audience official website
+#### <a name="step1"> Step 1:  Sign in/Sign up on the audience website
 - ... wait for add link ...
 ****
 
-#### <a name="step2"> step 2: Youtube/Twitch channel autherization
-- go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/chatSetting/) to bind your youtube/twitch channel
-- if you use Youtube
-    - click `Connect Youtube Account`
-    - choose your youtube account
-- if you use Twitch
-    - click `Conncect Twitch Account`
-    - if you had login twitch before, it will auto autherize
-    - if not, you will see the pop out Twitch login window
-    - if you want to change your Twitch account, please logout Twitch first
-> Please check your youtube account can streaming first
+#### <a name="step2"> Step 2: YouTube/Twitch channel authorization
+- Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/chatSetting/) to connect your YouTube/Twitch channel
+- To connect YouTube:
+    - **First make sure your YouTube account is capable of streaming**
+    - Click `Connect YouTube Account`
+    - Choose your YouTube account
+- To connect Twitch:
+    - Click `Connect Twitch Account`
+    - If you're already signed into Twitch, audience automatically authorizes the account
+    - If not signed in, the Twitch sign in window appears
+    - To connect a different Twitch account, first sign out of your Twitch account
 
 ****
 #### <a name="step3"> step 3: Setup your scene camera
-- go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/scenes/) to setup your scene settings
-- click `+ Add` to add a new scene setting
-- click `Add Source` to add a source camera
-    - you can rename the Source camera name
-    - you can choose 3D/2D capture mode
-    - choose your resolution
-    - position/rotation can modify in BISPA(BeatSaber audience mods)
-    - you can add up to **`three`** cameras
+- Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/scenes/) to setup your scene settings
+- Click `+ Add` to add a new scene setting
+- Click `Add Source` to add a source camera
+    - You can rename the Source camera name
+    - You can choose 2D or 3D capture mode
+    - Choose your resolution
+    - Position and rotation can be modified in BISPA (Beat Saber audience mods)
+    - You can add up to **`3`** cameras
 > You must add at least one source camera
 ****
-#### <a name="step4"> step 4: Setup your viewers
-- a `viewer` represent a `channel`, it will share as an url to your viewer later
-- click `Add Viewer` to add a viewer camera
-- ***recommend*** choose **`SFU`** viewer type, it support **multiple online viewing**
-- link with a **`source camera`**
-- you can add up to **`three`** viewers
-- ***recommed*** rename your `Viewer Name`, it will easy to distuguish the diffrent when viewers joining a channel through an url
+#### <a name="step4"> Step 4: Setup your viewers
+- A `viewer` represents a `channel`, and can be shared as a URL to your viewer later
+- Click `Add Viewer` to add a viewer camera
+- ***Recommended*** Choose **`SFU`** viewer type, which supports **multiple online viewing**
+- Link with a **`source camera`**
+- You can add up to **`three`** viewers
+- ***Recommended*** Rename your `Viewer Name` to make it easier to distinguish different viewers joining a channel through a URL
 ****
-#### <a name="step5"> step 5: Save your settings
-- notify that you can only have up to **20** scene settings
-- your scene setting will show in BeastSaber audience mod after you save. 
+#### <a name="step5"> Step 5: Save your settings
+- Note that you can only have up to **20** scene settings
+- Your scene settings will show in Beast Saber audience mod after you save
 ****
-#### <a name="step6"> step 6: Login audience in your BeatSaber
-- check if your BeatSaber audience mod is intall correctly
-    - if install correctly, it will show 'audience' in Mods panel
-    - click 'sign in', enter your email and password that registed on our website
+#### <a name="step6"> Step 6: Sign into audience in Beat Saber
+- Check if your Beat Saber audience mod is intalled correctly
+    - If installed correctly, 'audience' will appear in the Mods panel
+    - Click 'sign in' and enter the email and password of your audience account
 ****
-#### <a name="step7"> step 7: Check your streaming chat is working
-- after login your audience account, and check you had already auth your youtube/twitch in step2
-- check your streaming chat is working, try type something in chat
-- click '3D EMOJI' button
-- toogle your streaming platform (youtube or twitch)
-    - if you use youtube, you need to choose a channel
-    - please check your channel is **`not`** private and for child.
-- try send some emoji in your chat, you should can see the emoji and username with avatar show in your BeatSaber
+#### <a name="step7"> Step 7: Check your streaming chat is working
+- Sign into your audience account and make sure you've completed Step 2 to authorize your YouTube or Twitch account
+- To check if your streaming chat is working, try typing something in the chat
+- Click the '3D EMOJI' button
+- Toggle your streaming platform (YouTube or Twitch)
+    - If using YouTube, you need to choose a channel
+    - Make sure your channel is **`not`** private or locked with YouTube Kids
+- Try sending emoji in your chat. The emoji with username with avatar should show in Beat Saber
 - **Try 3D emoji** 
-   - We represent some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/), viewer can type the emoji-command in chat (Ex: #bigheart#)
+   - We offer some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/). To use 3D emoji, type the emoji command in the chat (Ex: #bigheart#)
 ****
-#### <a name="step8"> step 8: Start streaming
-- check you have set at least one scene setting in `step4 & 5`
-- check your streaming platform is start streaming
-- click `VR 360 Live Stream` in BeatSaber
-- it will show the panel and show your scene settings
-- choose one
-- click 'LOAD'
-- click 'START'
+#### <a name="step8"> Step 8: Start streaming
+- Make sure you have set at least one scene setting (see `Steps 4 and 5`)
+- Check if your streaming platform is streaming successfully
+- Click `VR 360 Live Stream` in Beat Saber
+- Your panel and scene settings appear
+- Choose one
+- Click 'LOAD'
+- Click 'START'
     - if show error message, please check your other applications is close and network configuration, for detail look[`Limitation - GPU Session`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
 - click 'SHARE'
     - go to `step 9`
     - it will auto open the share link webpage on our website in browser
 ****    
-#### <a name="step9"> step 9: Share an url
-- after finish `step 8`, go to [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your url, the name was that you setup in `step 4 - Viewer name`
-- viewer can watch streaming in browser/mobile browser through the url
+#### <a name="step9"> Step 9: Share a URL
+- After completing `Step 8`, click [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your URL (viewer names were setup in Step 4)
+- Viewers can use the URL to access the livestream in a desktop browser or mobile browser
 ****
 
