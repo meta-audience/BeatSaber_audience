@@ -6,7 +6,7 @@
 - [Add viewers](#step4)
 - [Save your settings](#step5)
 - [Sign into audience in Beat Saber](#step6)
-- [Check that your streaming chat is working](#step7)
+- [Verify your streaming chat is working](#step7)
 - [Start streaming](#step8)
 - [Share a URL](#step9)
 ****
