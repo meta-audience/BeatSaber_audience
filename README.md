@@ -6,7 +6,7 @@ ___
 
 # Introduction
 
-The audience mod for Beat Saber allows you to easily broadcast immersive and interactive live streams. Share your 360 degree VR world with just a URL! And interact with your audience using our customizable VR emoji! For more information, please visit our [website](https://staging-web.meta-audience.com/).
+The audience mod for Beat Saber allows you to easily broadcast immersive and interactive live streams. Share your 360 degree VR world with just a URL! And interact with your audience using our customizable VR emoji! For more information, please visit our [website](https://www.meta-audience.com/en-us/).
 
 
 
