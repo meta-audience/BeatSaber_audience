@@ -11,7 +11,7 @@
 - [Share a URL](#step9)
 ****
 #### <a name="step1"> Step 1:  Sign in/Sign up on the audience website
-- ... wait for add link ...
+- [Official Website](https://www.meta-audience.com/en-us/)
 ****
 
 #### <a name="step2"> Step 2: Authorize YouTube/Twitch channels
