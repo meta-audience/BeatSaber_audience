@@ -29,7 +29,7 @@
 
 ****
 #### <a name="step3"> Step 3: Add a scene and source camera
-- Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/scenes/) to edit your scene settings
+- Click [`here`](https://meta-audience.com/en-us/accounts/scenes/) to edit your scene settings
 - Click `+ Add` to add a new scene 
     - You can add up to **`20`** scenes
 - Click `Add Source` to add a source camera
