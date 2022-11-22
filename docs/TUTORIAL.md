@@ -15,7 +15,7 @@
 ****
 
 #### <a name="step2"> Step 2: Authorize YouTube/Twitch channels
-- Click [`here`](https://meta-audience.com/en-us/accounts/chatSetting/) to connect your YouTube/Twitch channel
+- Click [`here`](https://www.meta-audience.com/en-us/accounts/chatSetting/) to connect your YouTube/Twitch channel
 - To connect YouTube:
     - **First make sure your YouTube account is capable of streaming**
     - Click `Connect YouTube Account`
@@ -29,7 +29,7 @@
 
 ****
 #### <a name="step3"> Step 3: Add a scene and source camera
-- Click [`here`](https://meta-audience.com/en-us/accounts/scenes/) to edit your scene settings
+- Click [`here`](https://www.meta-audience.com/en-us/accounts/scenes/) to edit your scene settings
 - Click `+ Add` to add a new scene 
     - You can add up to **`20`** scenes
 - Click `Add Source` to add a source camera
@@ -64,7 +64,7 @@
 - Toggle to your preferred streaming platform (YouTube or Twitch)
 - Try sending emoji in your chat. The emoji (with username with avatar) should show in Beat Saber
 - **Try 3D emoji** 
-   - We offer some [`3D emoji`](https://meta-audience.com/en-us/download/). To use 3D emoji, type the emoji command in the chat (Ex: #bigheart#)
+   - We offer some [`3D emoji`](https://www.meta-audience.com/en-us/download/). To use 3D emoji, type the emoji command in the chat (Ex: #bigheart#)
 ****
 #### <a name="step8"> Step 8: Start streaming
 - Make sure you have set at least one scene setting (see `Steps 4 and 5`)
