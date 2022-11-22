@@ -79,7 +79,7 @@
     - The audience share URL webpage will automatically open in your browser
 ****    
 #### <a name="step9"> Step 9: Share a URL
-- Click [`here`](https://meta-audience.com/en-us/accounts/userChannels/) to get your sharing URL (viewer names were setup in `Step 4`)
+- Click [`here`](https://www.meta-audience.com/en-us/accounts/userChannels/) to get your sharing URL (viewer names were setup in `Step 4`)
 - Viewers can use the URL to access the livestream in a desktop browser or mobile browser
 ****
 
