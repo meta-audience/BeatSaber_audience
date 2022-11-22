@@ -15,7 +15,7 @@
 ****
 
 #### <a name="step2"> Step 2: Authorize YouTube/Twitch channels
-- Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/chatSetting/) to connect your YouTube/Twitch channel
+- Click [`here`](https://meta-audience.com/en-us/accounts/chatSetting/) to connect your YouTube/Twitch channel
 - To connect YouTube:
     - **First make sure your YouTube account is capable of streaming**
     - Click `Connect YouTube Account`
@@ -64,7 +64,7 @@
 - Toggle to your preferred streaming platform (YouTube or Twitch)
 - Try sending emoji in your chat. The emoji (with username with avatar) should show in Beat Saber
 - **Try 3D emoji** 
-   - We offer some [`3D emoji`](https://staging-web.meta-audience.com/en-us/download/). To use 3D emoji, type the emoji command in the chat (Ex: #bigheart#)
+   - We offer some [`3D emoji`](https://meta-audience.com/en-us/download/). To use 3D emoji, type the emoji command in the chat (Ex: #bigheart#)
 ****
 #### <a name="step8"> Step 8: Start streaming
 - Make sure you have set at least one scene setting (see `Steps 4 and 5`)
@@ -74,12 +74,12 @@
 - Select a scene
 - Click `LOAD`
 - Click `START`
-    - If you see an error message, try closing other applications and check your network configuration. For details see <br>[`Limitations - GPU Limitations`](https://github.com/meta-audience/BeatSaber_audience/blob/DVAT-4532/docs/LIMITATION.md#gpu-session-problem)
+    - If you see an error message, try closing other applications and check your network configuration. For details see <br>[`Limitations - GPU Limitations`](https://github.com/meta-audience/BeatSaber_audience/blob/main/docs/LIMITATION.md#gpu-session-problem)
 - Click `SHARE`
     - The audience share URL webpage will automatically open in your browser
 ****    
 #### <a name="step9"> Step 9: Share a URL
-- Click [`here`](https://staging-web.meta-audience.com/en-us/accounts/userChannels/) to get your sharing URL (viewer names were setup in `Step 4`)
+- Click [`here`](https://meta-audience.com/en-us/accounts/userChannels/) to get your sharing URL (viewer names were setup in `Step 4`)
 - Viewers can use the URL to access the livestream in a desktop browser or mobile browser
 ****
 
