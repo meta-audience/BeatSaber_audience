@@ -17,10 +17,12 @@ Make sure if the Beat Saber releases upgrade recently. Whenever the Beat Saber g
 Try to launch the Beat Saber through steam platform. If that doesn't work, remove the audience mode, and re-install it. You can also ask for help in our Discord.
 
 ### 4. How many cameras can I use in Beat Saber?
-At most three so far! We use NVIDIA hardware encoding, and other applications might have a chance to use the same technic, which affects the number of cameras. Consider the setting below:
+At most three so far! We use NVIDIA hardware encoding, and other applications might have a chance to use the same technic, which affects the number of cameras. If you are using Steam as your gaming platform. Try switch off the "motion soomthing" option in your steam VR setting.
+<img src="https://imgur.com/cC6U8lb.jpg" alt="drawing" width="400"/>
 
 ### 5. I can't see the head of my Avatar in Beat Saber
 This is a known issue, go to Custom Avatar → Settings → Current avatar → Ignore first person exclusions.
+<img src="https://imgur.com/MmMko6P.jpg" alt="drawing" width="400"/>
   
 ### 6. Is there a more convient way sharing the live stream to phones or Quest 1/2
 You can use QR code tool to transform the URL into a QR code. or use hmd.link, click "add link" and parse your URL on it. (Note: you can only use the hmd.link in local network environment, this means you can't share this link to a friend outside the local network)
