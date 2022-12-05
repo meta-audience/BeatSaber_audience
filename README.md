@@ -32,7 +32,7 @@ CPU | Intel Core i5 | **Intel Core i7 or better**
 RAM | 8 GB | **16 GB or better**
 GPU | Nvidia GTX 980-Ti  | **Nvidia GTX 1070 or better**
 Storage | 300 MB | **300MB**
-Network | 60M/20M（detail）| **100M/40M or better（detail）**
+Network | 5M/10M（detail）| **5M/50M or better（detail）**
 > Note the graphics card must be `NVIDIA GeForce GTX series graphics card`, and the minimum is `980-Ti`, and the driver must be updated to the ***latest version***.
 
 
