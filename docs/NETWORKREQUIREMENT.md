@@ -17,5 +17,7 @@
 
 - ### **Recommended network plan for streamers:**  
     - **Please use a wired network for streaming. WiFi is not recommended** 
-    - One viewer : 60M/20M
-    - Two or more viewers：Above 100M/40M
+    - One Camera
+        - 3840×3840 (4K), 3840x1920 (4K), 2560x2560: 5M/50M
+        - 2560x1280 (2K), 1920x1920 (2K): 5M/25M
+        - 1920x960 (1080P): 5M/10M
