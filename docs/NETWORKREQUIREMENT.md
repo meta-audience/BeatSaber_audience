@@ -11,7 +11,7 @@
 
     - **Your friends need to use a WiFi 5 5G connection**
 
-    - If your friend is using a 4G connection, the live stream can be viewed, but may experience problems with connection. Please refer to our **[`FAQ`](https://staging-web.meta-audience.com/accounts/scenes/)**
+    - If your friend is using a 4G connection, the live stream can be viewed, but may experience problems with connection. Please refer to our **[`FAQ`](/docs/FAQ.md)**
 
 
 
