@@ -20,9 +20,9 @@
 ### Viewer Limitations
  Resolution | Viewer limit  
  ----- | ----- 
-| 3840×2160 (4K) |  16 viewers
-| 2560x1440 (2K) |   20 viewers
-| 1920x1080 (1080P)| 40 viewers
+| 3840×3840 (4K), 3840x1920 (4K), 2560x2560 | 16 viewers
+| 2560x1280 (2K), 1920x1920 (2K) |   20 viewers
+| 1920x960 (1080P)| 40 viewers
 
 > (2D and 3D cameras have the same limitations)
 > 
