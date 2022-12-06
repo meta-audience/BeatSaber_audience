@@ -34,4 +34,6 @@ Beat Saber location, choose your path manually using the **Custom** option, then
         - **audience-plugin.dll**
     - /Plugins
         - **audience.dll**
+    - /Plugins/x86_64
+        - **/logs/audience_log_config.json**
 
