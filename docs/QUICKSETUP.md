@@ -10,11 +10,11 @@
 <img src="https://i.imgur.com/3Dd4HcJ.png" alt="drawing" width="400"/>
 
 3. Select the folder where you installed Beat Saber and click **Install**. The installer will auto-detect the Beat Saber folder in your Steam or Oculus library and find the correct path.  
-<img src="https://i.imgur.com/hsN25Ss.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/eXOc0xU.png" alt="drawing" width="400"/>
 
 - Note that if auto-detection fails or you want to install the mod in a different 
 Beat Saber location, choose your path manually using the **Custom** option, then click **Install**.
-<img src="https://i.imgur.com/b2FWNYW.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/S1D9Q2x.png" alt="drawing" width="400"/>
 
 4. Wait for the mod to install. 
 <img src="https://i.imgur.com/cONixFk.png" alt="drawing" width="400"/>
