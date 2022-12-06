@@ -30,7 +30,7 @@ Beat Saber location, choose your path manually using the **Custom** option, then
 4. Extract the zip file to anywhere.
 5. There are three .dll files in this zip file. Drag them to following locations:
     - /Libs
-        - **audience-unity.dll**
+        - **audience_unity.dll**
         - **audience-plugin.dll**
     - /Plugins
         - **audience.dll**
