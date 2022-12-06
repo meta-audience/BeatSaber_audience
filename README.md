@@ -21,6 +21,7 @@ The audience mod for Beat Saber allows you to easily broadcast immersive and int
 
 * [How to start your first live stream](docs/TUTORIAL.md)
 * [Limitations](docs/LIMITATION.md)
+* [FAQs](docs/FAQs.md)
 
 
 # System Requirements
