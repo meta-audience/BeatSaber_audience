@@ -14,7 +14,7 @@ The audience mod for Beat Saber allows you to easily broadcast immersive and int
 
 
 
-### Intall audience mod   
+### Install audience mod   
 * [Installation guide](docs/QUICKSETUP.md)
 
 ### audience tutorial
