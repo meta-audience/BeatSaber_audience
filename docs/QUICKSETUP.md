@@ -1,5 +1,5 @@
 # Installation Guide
-* [Auto Installation](#auto) 
+* [Auto Installation](#auto) (Recommend)
 * [Manual Installation](#manual)
 
 # <span id="auto">Auto Installation (audience installer)</span>
@@ -28,7 +28,7 @@ Beat Saber location, choose your path manually using the **Custom** option, then
 2. Find your Beat Saber folder location.
 3. Download the export_rel.zip file in the latest [release](https://github.com/meta-audience/BeatSaber_audience/releases).
 4. Extract the zip file to anywhere.
-5. There are three .dll files in this zip file. Drag them to following locations:
+5. There are three .dll files in this zip file. Drag them to the following locations:
     - /Libs
         - **audience_unity.dll**
         - **audience-plugin.dll**
