@@ -4,10 +4,10 @@
 
 # <span id="auto">Auto Installation (audience installer)</span>
 1. Select a language, then click **Next**.  
-<img src="https://i.imgur.com/pVPUGWq.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/HfWMPKg.jpg" alt="drawing" width="400"/>
 
 2. Make sure you have aleady installed Beat Saber and Mod Assistant, then click **Next**.
-<img src="https://i.imgur.com/KxyQCsn.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/3Dd4HcJ.png" alt="drawing" width="400"/>
 
 3. Select the folder where you installed Beat Saber and click **Install**. The installer will auto-detect the Beat Saber folder in your Steam or Oculus library and find the correct path.  
 <img src="https://i.imgur.com/hsN25Ss.png" alt="drawing" width="400"/>
@@ -20,7 +20,7 @@ Beat Saber location, choose your path manually using the **Custom** option, then
 <img src="https://i.imgur.com/cONixFk.png" alt="drawing" width="400"/>
 
 5. Installation complete! 
-<img src="https://i.imgur.com/uiR7iVj.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/9D0fzRF.png" alt="drawing" width="400"/>
 
 # <span id="manual">Manual Installation</span>
 
