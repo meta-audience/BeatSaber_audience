@@ -23,6 +23,7 @@
         - 1920x960 (1080P): 5M/10M
 
 - ### **Recommended network plan for viewers:**  
+    - One viewer client
         - 3840×3840 (4K), 3840x1920 (4K), 2560x2560: 50M/5M
         - 2560x1280 (2K), 1920x1920 (2K): 25M/5M
         - 1920x960 (1080P): 10M/5M
