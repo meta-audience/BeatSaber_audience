@@ -20,6 +20,7 @@ The audience mod for Beat Saber allows you to easily broadcast immersive and int
 ### audience tutorial
 
 * [How to start your first live stream](docs/TUTORIAL.md)
+* [How to send your first VR emoji](docs/TUTORIAL_EMOJI.md)
 * [Limitations](docs/LIMITATION.md)
 * [FAQs](docs/FAQ.md)
 
