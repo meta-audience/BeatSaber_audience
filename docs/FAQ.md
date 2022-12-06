@@ -17,7 +17,7 @@ Make sure if the Beat Saber releases upgrade recently. Whenever the Beat Saber g
 Try to launch the Beat Saber through steam platform. If that doesn't work, remove the audience mode, and re-install it. You can also ask for help in our Discord.
 
 ### 4. How many cameras can I use in Beat Saber?
-At most three so far! We use NVIDIA hardware encoding, and other applications might have a chance to use the same technic, which affects the number of cameras. If you are using Steam as your gaming platform. Try switch off the "motion soomthing" option in your steam VR setting.
+At most three so far! We use NVIDIA hardware encoding, and other applications might have a chance to use the same technic, which affects the number of cameras. If you are using Steam as your gaming platform. Try switch off the "motion smoothing" option in your steam VR setting.
 <img src="https://imgur.com/fjA2PxY.jpg" alt="drawing" width="400"/>
 
 ### 5. I can't see the head of my Avatar in Beat Saber
