@@ -21,17 +21,17 @@ You can currently use a maximum of three cameras. We use NVIDIA hardware encodin
 <img src="https://imgur.com/fjA2PxY.jpg" alt="drawing" width="400"/>
 
 ### 5. I can't see the head of my avatar in Beat Saber. What should I do?
-This is a known issue. Go to **Custom Avatar** → **Settings** → **Current avatar** → **Ignore first person exclusions**.
+This is a known issue. Go to **Custom Avatar** → **Settings** → **Current avatar** and enable **Ignore first person exclusions**.
 <img src="https://imgur.com/Al5D8Ow.jpg" alt="drawing" width="400"/>
   
-### 6. Is there a more convenient way to share live streams to phones or Quest 1/2?
+### 6. Is there a more convenient way to share live streams to phones or Oculus Quest 1/2?
 You can use any free online QR code generator to transform the URL into a QR code. 
 
-Or use [hmd.link](https://hmd.link/). Click "add link" and enter your URL. (Note: you can only use the hmd.link in local network environments, which means you can't share this link to a friend outside your local network.)
+Or use [hmd.link](https://hmd.link/). Click "add link" and enter your URL. 
+(Note: You can only use the hmd.link in local network environments, which means you can't share this link to a friend outside your local network.)
 
 On your phone or on Oculus Quest 1/2, go to [hmd.link](https://hmd.link/), and you'll see the link you just entered. Click the link to watch the shared stream.
-
-(You can bookmark https://hmd.link/ for future use).
+(Note: You can bookmark https://hmd.link/ for future use).
 
 ### 7. Why does the live stream sometimes freeze on phones?
 Please make sure your phone's OS version is higher than Android 9 or iOS 10 and using 5G WiFi. 
