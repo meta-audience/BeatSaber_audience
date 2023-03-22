@@ -48,7 +48,16 @@ There are two possible reasons for a laggy live stream:
 ### 9. How do I know that I have enough network bandwidth? How much bandwidth does audience use?
 The easiest way the check network bandwidth in Windows 10 is to open your PC's Resource Monitor, expand **Network**, and observe the "Send" category for BeatSaber.exe to see how much bandwidth you're using for the live stream. You can also open your router's webpage to observe the bandwidth usage.
 
-### 10. I can't find my question in the FAQs above. What can I do?
+### 10. If you happen to have problem with your login, there might be some issue with your Godaddy certificate in your PC. Checkout the following troubleshooting steps
+
+1. Go to [https://certs.godaddy.com/repository](https://certs.godaddy.com/repository)
+2. Download [gdroot-g2.crt](https://certs.godaddy.com/repository/gdroot-g2.crt)
+3. Open & trust [gdroot-g2.crt](https://certs.godaddy.com/repository/gdroot-g2.crt)
+<img src="https://imgur.com/a/WeIv1GV" alt="drawing" width="400"/>
+<img src="https://imgur.com/a/IZHFAnq" alt="drawing" width="400"/>
+<img src="https://imgur.com/a/xl0Ffpf" alt="drawing" width="400"/>
+
+### 11. I can't find my question in the FAQs above. What can I do?
 Sounds like you encountered something tricky. We'll take care of it from here. Just follow these steps to provide us with your log files:
 
 1. Open a new directory (e.g. C:\audience_log).
