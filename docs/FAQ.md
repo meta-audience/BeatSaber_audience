@@ -53,9 +53,9 @@ The easiest way the check network bandwidth in Windows 10 is to open your PC's R
 1. Go to [https://certs.godaddy.com/repository](https://certs.godaddy.com/repository)
 2. Download [gdroot-g2.crt](https://certs.godaddy.com/repository/gdroot-g2.crt)
 3. Open & trust [gdroot-g2.crt](https://certs.godaddy.com/repository/gdroot-g2.crt)
-<img src="https://imgur.com/a/WeIv1GV" alt="drawing" width="400"/>
-<img src="https://imgur.com/a/IZHFAnq" alt="drawing" width="400"/>
-<img src="https://imgur.com/a/xl0Ffpf" alt="drawing" width="400"/>
+<img src="https://imgur.com/I6TwBLU.jpg" alt="drawing" width="400"/>
+<img src="https://imgur.com/TYaJLHQ.jpg" alt="drawing" width="400"/>
+<img src="https://imgur.com/nS60w0I.jpg" alt="drawing" width="400"/>
 
 ### 11. I can't find my question in the FAQs above. What can I do?
 Sounds like you encountered something tricky. We'll take care of it from here. Just follow these steps to provide us with your log files:
