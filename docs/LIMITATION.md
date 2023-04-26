@@ -17,10 +17,10 @@
   - Enter VR mode again (the SteamVR status should show as `Chrome 106`)
  > In "Chrome XXX" XXX is your Chrome version
   
-### Viewer Limitations
+### Viewer Limitations (for broadcast type: `audience SFU`)
  Resolution | Viewer limit  
  ----- | ----- 
-| 3840×3840 (4K), 3840x1920 (4K), 2560x2560 | 16 viewers
+| 3840x1920 (4K), 2560x2560 | 16 viewers
 | 2560x1280 (2K), 1920x1920 (2K) |   20 viewers
 | 1920x960 (1080P)| 40 viewers
 
