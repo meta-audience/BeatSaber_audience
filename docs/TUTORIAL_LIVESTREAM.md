@@ -26,7 +26,7 @@
 #### <a name="step3"> Step 3: Add viewers
 - A `viewer` represents a `channel`, which can be shared as a URL to your viewers later
 - Click `Add Viewer` to add a new viewer 
-- (***Recommended***) Select **`SFU`** viewer type, which supports **multiple online viewers**
+- (***Recommended***) Select **`audience Cloud`** broadcast type, which supports **multiple online viewers**
 - Link the viewer with a **`source camera`**
 - You can add up to **`3`** viewers
 - (***Recommended***) Rename your `Viewer Name` to make it easier to distinguish different viewers joining a channel through a URL
