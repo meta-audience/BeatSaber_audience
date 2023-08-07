@@ -36,8 +36,7 @@ Beat Saber location, choose your path manually using the **Custom** option, then
         - **audience.dll**
     - /Plugins/x86_64
         - **agora_rtc_sdk.dll**
-        - **av1.dll**
-        - **libagora_dav1d.dll**
+        - **libagora-core.dll**
         - **libagora-fdkaac.dll**
         - **libagora-ffmpeg.dll**
         - **libagora-soundtouch.dll**
